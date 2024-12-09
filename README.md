@@ -85,7 +85,33 @@ Hu Xu, Saining Xie, Xiaoqing Ellen Tan, Po-Yao Huang, Russell Howes, Vasu Sharma
 - **Date:** 2023-09-28
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Zero-Shot Classification
+
     
+### LDM: High-Resolution Image Synthesis with Latent Diffusion Models
+[![arXiv](https://img.shields.io/badge/arXiv-2112.10752-b31b1b.svg)](https://arxiv.org/abs/2112.10752) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/CompVis/latent-diffusion) 
+
+Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bjorn Ommer
+- **Date:** 2022-04-13
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Text-to-Image, Inpainting
+
+
+### ALBEF: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation
+[![arXiv](https://img.shields.io/badge/arXiv-2107.07651-b31b1b.svg)](https://arxiv.org/abs/2107.07651) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/salesforce/ALBEF) 
+
+Junnan Li, Ramprasaath R. Selvaraju, Akhilesh D. Gotmare Shafiq Joty, Caiming Xiong, Steven C.H. Hoi
+- **Date:** 2021-10-07
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Image-Text Retrieval, Visual Grounding, VQA
+
+
+### Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding
+[![arXiv](https://img.shields.io/badge/arXiv-2210.03347-b31b1b.svg)](https://arxiv.org/abs/2210.03347) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/pix2struct) [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/pix2struct) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/huggingface/notebooks/blob/main/examples/image_captioning_pix2struct.ipynb)
+Kenton Lee, Mandar Joshi, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova
+- **Date:** 07-10-2022
+- **Modalities:** 👁️💬
+- **Tasks:** Visual Question Answering
+
 
 ### Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
 [![arXiv](https://img.shields.io/badge/arXiv-2308.12966-b31b1b.svg)](https://arxiv.org/abs/2308.12966) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/QwenLM/Qwen-VL)  [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Qwen/Qwen-VL-Max) [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue)](https://huggingface.co/Qwen/Qwen-VL) 
@@ -193,6 +219,15 @@ Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
 - **Date:** 2023-01-30
 - **Modalities:** 👁️ + 💬
 - **Tasks:** Image Captioning, Visual Question Answering
+
+
+### OWL-ST: Scaling Open-Vocabulary Object Detection
+[![arXiv](https://img.shields.io/badge/arXiv-2306.09683-b31b1b.svg)](https://arxiv.org/abs/2306.09683)  [![Gradio](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/merve/owlv2) 
+
+Matthias Minderer, Alexey Gritsenko, Neil Houlsby
+- **Date:** 16-01-2023
+- **Modalities:** 👁️ + 💬
+- **Tasks:** Zero-Shot Object Detection
     
 
 ### Whisper: Robust Speech Recognition via Large-Scale Weak Supervision
